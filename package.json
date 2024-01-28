@@ -2,6 +2,7 @@
   "dependencies": {
     "@supabase/supabase-js": "^2.39.3",
     "cors": "^2.8.5",
+    "cross-env": "^7.0.3",
     "dotenv": "^16.4.1",
     "express": "^4.18.2",
     "nodemon": "^3.0.3"
@@ -10,10 +11,10 @@
   "description": "website",
   "version": "1.0.0",
   "main": "index.js",
-  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "dev": "nodemon index.js"
+    "dev": "nodemon src/index.js",
+    "build": "cross-env NODE_ENV=production && node src/index.js --output public "
   },
   "repository": {
     "type": "git",
@@ -21,5 +22,4 @@
   },
   "author": "cg",
   "license": "MIT"
- 
 }
