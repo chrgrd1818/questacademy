@@ -1,6 +1,8 @@
 const express = require('express');
 require("dotenv").config();
 const cors = require('cors');
+const router = require("express").Router();
+
 const app = express();
 app.use(cors());
 app.use(express.json());
@@ -12,15 +14,17 @@ const { createClient } = require("@supabase/supabase-js");
 const supabase = createClient(process.env.DATABASE_URL,process.env.DATABASE_KEY);
 
 
-app.get("/", (_, response) =>
-  response.json({ info: "Node.js, Express, and Postgres API" })
-);
+router.get("/", (req, res) => res.send("Hello World!"));
+
+
+
+//api.use("/api/", router);
 
 // Get all articles
 app.get("/courses", async (_, response) => {
   try {
     const { data, error } = await supabase.from("COURSES").select('*');
-    console.log('data: ' + data);
+    
 
     return response.send(data);
   } catch (error) {
