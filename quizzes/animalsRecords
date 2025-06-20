@@ -1,0 +1,75 @@
+{
+  "metadata": {
+    "uniqueID": "quizAnimalFacts",
+    "title": "Quiz sur les records animaux",
+    "description": "Un quiz sur les animaux détenant des records de vitesse, de plongée et de résistance.",
+    "author": "QuizMaster",
+    "dateCreated": "2025-06-20"
+  },
+  "quizzes": [
+    {
+      "difficultyLevel": 1,
+      "questions": [
+        {
+          "id": 1,
+          "text": "Quel animal détient le record de l'animal terrestre le plus rapide ?",
+          "options": [
+            { "text": "Le marlin voilier", "correct": false },
+            { "text": "Le guépard", "correct": true },
+            { "text": "Le faucon pèlerin", "correct": false }
+          ]
+        },
+        {
+          "id": 3,
+          "text": "Quel poisson est le plus rapide dans l'océan ?",
+          "options": [
+            { "text": "La baleine à bec", "correct": false },
+            { "text": "Le marlin voilier", "correct": true },
+            { "text": "Le requin", "correct": false }
+          ]
+        },
+        {
+          "id": 5,
+          "text": "Quel animal est connu pour l'écholocation ?",
+          "options": [
+            { "text": "L'aigle", "correct": false },
+            { "text": "La chauve-souris", "correct": true },
+            { "text": "Le papillon de nuit", "correct": false }
+          ]
+        }
+      ]
+    },
+    {
+      "difficultyLevel": 2,
+      "questions": [
+        {
+          "id": 2,
+          "text": "Quelle est la vitesse maximale que le guépard peut atteindre ?",
+          "options": [
+            { "text": "Environ 100 km/h", "correct": false },
+            { "text": "Jusqu'à 120 km/h", "correct": true },
+            { "text": "Près de 90 km/h", "correct": false }
+          ]
+        },
+        {
+          "id": 4,
+          "text": "À quelle profondeur la baleine à bec de Cuvier peut-elle plonger ?",
+          "options": [
+            { "text": "Environ 1 000 mètres", "correct": false },
+            { "text": "Près de 3 000 mètres", "correct": true },
+            { "text": "Plus de 5 000 mètres", "correct": false }
+          ]
+        },
+        {
+          "id": 6,
+          "text": "Quel est le record de température extrême supporté par les tardigrades ?",
+          "options": [
+            { "text": "De -50°C à 50°C", "correct": false },
+            { "text": "De -272°C à 150°C", "correct": true },
+            { "text": "De 0°C à 100°C", "correct": false }
+          ]
+        }
+      ]
+    }
+  ]
+}
