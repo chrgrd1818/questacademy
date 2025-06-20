@@ -1,1 +1,54 @@
+{
+  "metadata": {
+    "uniqueID": "photosynthesisQuiz",
+    "title": "Quiz sur la Photosynthèse",
+    "description": "Un quiz pour tester vos connaissances sur le processus de la photosynthèse.",
+    "author": "QuizMaster",
+    "dateCreated": "2025-06-19"
+  },
+  "quizzes": [
+    {
+      "difficultyLevel": 1,
+      "questions": [
+        {
+          "id": 1,
+          "text": "Quel gaz les plantes libèrent-elles pendant la photosynthèse ?",
+          "options": [
+            { "text": "Gaz carbonique", "correct": false },
+            { "text": "Oxygène", "correct": true },
+            { "text": "Azote", "correct": false }
+          ]
+        }
+      ]
+    },
+    {
+      "difficultyLevel": 2,
+      "questions": [
+        {
+          "id": 2,
+          "text": "Qui a découvert que les plantes \"restaurent\" l'air ?",
+          "options": [
+            { "text": "Jan Ingenhousz", "correct": false },
+            { "text": "Melvin Calvin", "correct": false },
+            { "text": "Joseph Priestley", "correct": true }
+          ]
+        }
+      ]
+    },
+    {
+      "difficultyLevel": 3,
+      "questions": [
+        {
+          "id": 3,
+          "text": "Quelle est la fonction de la chlorophylle ?",
+          "options": [
+            { "text": "Capturer l'énergie lumineuse", "correct": true },
+            { "text": "Produire de l'eau", "correct": false },
+            { "text": "Fixer le dioxyde", "correct": false }
+          ]
+        }
+      ]
+    }
+  ]
+}
 
