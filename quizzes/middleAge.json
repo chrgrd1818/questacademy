@@ -1,81 +1,65 @@
 {
-  "metadata": {
-    "uniqueID": "quizMoyenAge",
-    "title": "Quiz sur le Moyen Âge",
-    "description": "Un quiz couvrant différentes facettes du Moyen Âge, incluant l'histoire, la culture, les inventions et l'influence des civilisations.",
-    "author": "QuizMaster",
-    "dateCreated": "2025-05-22"
-  },
-  "quizzes": [
+  "quizName": "middleAge",
+  "questions": [
     {
+      "id": 1,
       "difficultyLevel": 1,
-      "questions": [
-        {
-          "id": 1,
-          "text": "Quelle période historique correspond au Moyen Âge ?",
-          "options": [
-            { "text": "Du Vème au XVème siècle", "correct": true },
-            { "text": "Du XVème au XVIIIème siècle", "correct": false },
-            { "text": "Du Ier au Ve siècle", "correct": false }
-          ]
-        },
-        {
-          "id": 2,
-          "text": "Quels lieux ont conservé le savoir antique au Moyen Âge ?",
-          "options": [
-            { "text": "Les châteaux forts", "correct": false },
-            { "text": "Les monastères", "correct": true },
-            { "text": "Les marchés", "correct": false }
-          ]
-        }
+      "text": "Quelle période historique correspond au Moyen Âge ?",
+      "options": [
+        { "text": "Du Vème au XVème siècle",         "correct": true  },
+        { "text": "Du XVème au XVIIIème siècle",     "correct": false },
+        { "text": "Du Ier au Ve siècle",             "correct": false }
       ]
     },
     {
+      "id": 2,
+      "difficultyLevel": 1,
+      "text": "Quels lieux ont conservé le savoir antique au Moyen Âge ?",
+      "options": [
+        { "text": "Les châteaux forts",   "correct": false },
+        { "text": "Les monastères",       "correct": true  },
+        { "text": "Les marchés",          "correct": false }
+      ]
+    },
+    {
+      "id": 3,
       "difficultyLevel": 2,
-      "questions": [
-        {
-          "id": 3,
-          "text": "Quels styles architecturaux sont apparus au Moyen Âge ?",
-          "options": [
-            { "text": "Roman et gothique", "correct": true },
-            { "text": "Grec et romain", "correct": false },
-            { "text": "Baroque et classique", "correct": false }
-          ]
-        },
-        {
-          "id": 4,
-          "text": "Quelle invention majeure a vu le jour au Moyen Âge ?",
-          "options": [
-            { "text": "L'ordinateur", "correct": false },
-            { "text": "L'horloge mécanique", "correct": true },
-            { "text": "La voiture", "correct": false }
-          ]
-        }
+      "text": "Quels styles architecturaux sont apparus au Moyen Âge ?",
+      "options": [
+        { "text": "Roman et gothique",      "correct": true  },
+        { "text": "Grec et romain",         "correct": false },
+        { "text": "Baroque et classique",   "correct": false }
       ]
     },
     {
+      "id": 4,
+      "difficultyLevel": 2,
+      "text": "Quelle invention majeure a vu le jour au Moyen Âge ?",
+      "options": [
+        { "text": "L'ordinateur",            "correct": false },
+        { "text": "L'horloge mécanique",     "correct": true  },
+        { "text": "La voiture",              "correct": false }
+      ]
+    },
+    {
+      "id": 5,
       "difficultyLevel": 3,
-      "questions": [
-        {
-          "id": 5,
-          "text": "Quelle civilisation a introduit l'algèbre en Europe ?",
-          "options": [
-            { "text": "La civilisation romaine", "correct": false },
-            { "text": "La civilisation islamique", "correct": true },
-            { "text": "La civilisation chinoise", "correct": false }
-          ]
-        },
-        {
-          "id": 6,
-          "text": "Quel rôle l'Église a-t-elle joué au Moyen Âge ?",
-          "options": [
-            { "text": "Elle a stoppé les recherches", "correct": false },
-            { "text": "Elle a financé des recherches", "correct": true },
-            { "text": "Elle a détruit les œuvres d'art", "correct": false }
-          ]
-        }
+      "text": "Quelle civilisation a introduit l'algèbre en Europe ?",
+      "options": [
+        { "text": "La civilisation romaine",    "correct": false },
+        { "text": "La civilisation islamique",  "correct": true  },
+        { "text": "La civilisation chinoise",   "correct": false }
+      ]
+    },
+    {
+      "id": 6,
+      "difficultyLevel": 3,
+      "text": "Quel rôle l'Église a-t-elle joué au Moyen Âge ?",
+      "options": [
+        { "text": "Elle a stoppé les recherches",     "correct": false },
+        { "text": "Elle a financé des recherches",    "correct": true  },
+        { "text": "Elle a détruit les œuvres d'art",  "correct": false }
       ]
     }
   ]
 }
-
