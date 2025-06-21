@@ -43,7 +43,7 @@
     },
     {
       "id": 5,
-      "difficultyLevel": 1,
+      "difficultyLevel": 2,
       "text": "Quel Avenger est un génie utilisant une armure motorisée ?",
       "options": [
         { "text": "Captain America", "correct": false },
@@ -53,7 +53,7 @@
     },
     {
       "id": 6,
-      "difficultyLevel": 1,
+      "difficultyLevel": 2,
       "text": "Quel est le pouvoir de Thor, le dieu du tonnerre ?",
       "options": [
         { "text": "Contrôler le vent", "correct": false },
@@ -83,7 +83,7 @@
     },
     {
       "id": 9,
-      "difficultyLevel": 2,
+      "difficultyLevel": 3,
       "text": "Comment Spider-Man s'accroche-t-il aux murs ?",
       "options": [
         { "text": "Il utilise des ventouses", "correct": false },
@@ -93,7 +93,7 @@
     },
     {
       "id": 10,
-      "difficultyLevel": 2,
+      "difficultyLevel": 3,
       "text": "Quel est le rôle principal d'Aquaman dans la Justice League ?",
       "options": [
         { "text": "Il contrôle le feu", "correct": false },
