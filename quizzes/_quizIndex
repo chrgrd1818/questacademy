@@ -1,8 +1,7 @@
 [
-{"quizId" : "a", "quizTitle" : "title", "quizUrl" : "" },
-{"quizId" : "a", "quizTitle" : "title", "quizUrl" : "" },
-{"quizId" : "a", "quizTitle" : "title", "quizUrl" : "" },
-{"quizId" : "a", "quizTitle" : "title", "quizUrl" : "" }
-
-
+{"quizId" : "animalsRecords", "quizTitle" : "Animals Records", "quizDesc" : ""},
+{"quizId" : "mediterraneanAntic", "quizTitle" : "Mediterranean Antic", "quizDesc" : "" },
+{"quizId" : "middleAge", "quizTitle" : "Middle Age", "quizDesc" : "" },
+{"quizId" : "photosynthesis", "quizTitle" : "Photosynthesisc", "quizDesc" : "" },
+{"quizId" : "worldCapitals", "quizTitle" : "World Capitals", "quizDesc" : "" }
 ]
