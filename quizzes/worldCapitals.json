@@ -1,133 +1,124 @@
 {
-  "metadata": {
-    "uniqueID": "capitalsQuiz",
-    "title": "Quiz des capitales du monde",
-    "description": "Un quiz pour tester vos connaissances sur les capitales des pays.",
-    "author": "QuizMaster",
-    "dateCreated": "2025-06-20"
-  },
-  "quizzes": [
+  "quizName": "worldCapitals",
+  "questions": [
     {
+      "id": 1,
       "difficultyLevel": 1,
-      "questions": [
-        {
-          "id": 1,
-          "text": "Quelle est la capitale de la France ?",
-          "options": [
-            { "text": "Madrid", "correct": false },
-            { "text": "Berlin", "correct": false },
-            { "text": "Paris", "correct": true }
-          ]
-        },
-        {
-          "id": 2,
-          "text": "Quelle est la capitale du Japon ?",
-          "options": [
-            { "text": "Pékin", "correct": false },
-            { "text": "Tokyo", "correct": true },
-            { "text": "Séoul", "correct": false }
-          ]
-        },
-        {
-          "id": 3,
-          "text": "Quelle est la capitale du Canada ?",
-          "options": [
-            { "text": "Toronto", "correct": false },
-            { "text": "Vancouver", "correct": false },
-            { "text": "Ottawa", "correct": true }
-          ]
-        },
-        {
-          "id": 4,
-          "text": "Quelle est la capitale de l'Italie ?",
-          "options": [
-            { "text": "Venise", "correct": false },
-            { "text": "Rome", "correct": true },
-            { "text": "Milan", "correct": false }
-          ]
-        },
-        {
-          "id": 5,
-          "text": "Quelle est la capitale de l'Allemagne ?",
-          "options": [
-            { "text": "Munich", "correct": false },
-            { "text": "Berlin", "correct": true },
-            { "text": "Hambourg", "correct": false }
-          ]
-        },
-        {
-          "id": 6,
-          "text": "Quelle est la capitale de la Chine ?",
-          "options": [
-            { "text": "Shanghai", "correct": false },
-            { "text": "Pékin", "correct": true },
-            { "text": "Hong Kong", "correct": false }
-          ]
-        },
-        {
-          "id": 7,
-          "text": "Quelle est la capitale de la Russie ?",
-          "options": [
-            { "text": "Saint-Pétersbourg", "correct": false },
-            { "text": "Moscou", "correct": true },
-            { "text": "Kazan", "correct": false }
-          ]
-        }
+      "text": "Quelle est la capitale de la France ?",
+      "options": [
+        { "text": "Madrid",   "correct": false },
+        { "text": "Berlin",   "correct": false },
+        { "text": "Paris",    "correct": true  }
       ]
     },
     {
+      "id": 2,
+      "difficultyLevel": 1,
+      "text": "Quelle est la capitale du Japon ?",
+      "options": [
+        { "text": "Pékin",    "correct": false },
+        { "text": "Tokyo",    "correct": true  },
+        { "text": "Séoul",    "correct": false }
+      ]
+    },
+    {
+      "id": 3,
+      "difficultyLevel": 1,
+      "text": "Quelle est la capitale du Canada ?",
+      "options": [
+        { "text": "Toronto",    "correct": false },
+        { "text": "Vancouver",  "correct": false },
+        { "text": "Ottawa",     "correct": true  }
+      ]
+    },
+    {
+      "id": 4,
+      "difficultyLevel": 1,
+      "text": "Quelle est la capitale de l'Italie ?",
+      "options": [
+        { "text": "Venise",   "correct": false },
+        { "text": "Rome",     "correct": true  },
+        { "text": "Milan",    "correct": false }
+      ]
+    },
+    {
+      "id": 5,
+      "difficultyLevel": 1,
+      "text": "Quelle est la capitale de l'Allemagne ?",
+      "options": [
+        { "text": "Munich",   "correct": false },
+        { "text": "Berlin",   "correct": true  },
+        { "text": "Hambourg", "correct": false }
+      ]
+    },
+    {
+      "id": 6,
+      "difficultyLevel": 1,
+      "text": "Quelle est la capitale de la Chine ?",
+      "options": [
+        { "text": "Shanghai",  "correct": false },
+        { "text": "Pékin",     "correct": true  },
+        { "text": "Hong Kong", "correct": false }
+      ]
+    },
+    {
+      "id": 7,
+      "difficultyLevel": 1,
+      "text": "Quelle est la capitale de la Russie ?",
+      "options": [
+        { "text": "Saint-Pétersbourg", "correct": false },
+        { "text": "Moscou",            "correct": true  },
+        { "text": "Kazan",             "correct": false }
+      ]
+    },
+    {
+      "id": 8,
       "difficultyLevel": 2,
-      "questions": [
-        {
-          "id": 8,
-          "text": "Quelle ville est la capitale de l'Australie ?",
-          "options": [
-            { "text": "Sydney", "correct": false },
-            { "text": "Canberra", "correct": true },
-            { "text": "Melbourne", "correct": false }
-          ]
-        },
-        {
-          "id": 9,
-          "text": "Laquelle de ces villes est la capitale de l'Inde ?",
-          "options": [
-            { "text": "Mumbai", "correct": false },
-            { "text": "New Delhi", "correct": true },
-            { "text": "Bangalore", "correct": false }
-          ]
-        },
-        {
-          "id": 10,
-          "text": "Quelle ville est la capitale du Brésil ?",
-          "options": [
-            { "text": "Rio de Janeiro", "correct": false },
-            { "text": "São Paulo", "correct": false },
-            { "text": "Brasilia", "correct": true }
-          ]
-        }
+      "text": "Quelle ville est la capitale de l'Australie ?",
+      "options": [
+        { "text": "Sydney",    "correct": false },
+        { "text": "Canberra",  "correct": true  },
+        { "text": "Melbourne", "correct": false }
       ]
     },
     {
+      "id": 9,
+      "difficultyLevel": 2,
+      "text": "Laquelle de ces villes est la capitale de l'Inde ?",
+      "options": [
+        { "text": "Mumbai",     "correct": false },
+        { "text": "New Delhi",  "correct": true  },
+        { "text": "Bangalore",  "correct": false }
+      ]
+    },
+    {
+      "id": 10,
+      "difficultyLevel": 2,
+      "text": "Quelle ville est la capitale du Brésil ?",
+      "options": [
+        { "text": "Rio de Janeiro", "correct": false },
+        { "text": "São Paulo",      "correct": false },
+        { "text": "Brasilia",       "correct": true  }
+      ]
+    },
+    {
+      "id": 11,
       "difficultyLevel": 3,
-      "questions": [
-        {
-          "id": 11,
-          "text": "Quelle est la capitale du Tadjikistan ?",
-          "options": [
-            { "text": "Tachkent", "correct": false },
-            { "text": "Douchanbé", "correct": true },
-            { "text": "Bichkek", "correct": false }
-          ]
-        },
-        {
-          "id": 12,
-          "text": "Quelle est la capitale du Kiribati ?",
-          "options": [
-            { "text": "Majuro", "correct": false },
-            { "text": "Tarawa-Sud", "correct": true },
-            { "text": "Nuku'alofa", "correct": false }
-          ]
-        }
+      "text": "Quelle est la capitale du Tadjikistan ?",
+      "options": [
+        { "text": "Tachkent",   "correct": false },
+        { "text": "Douchanbé",  "correct": true  },
+        { "text": "Bichkek",    "correct": false }
+      ]
+    },
+    {
+      "id": 12,
+      "difficultyLevel": 3,
+      "text": "Quelle est la capitale du Kiribati ?",
+      "options": [
+        { "text": "Majuro",      "correct": false },
+        { "text": "Tarawa-Sud",  "correct": true  },
+        { "text": "Nuku'alofa",  "correct": false }
       ]
     }
   ]
