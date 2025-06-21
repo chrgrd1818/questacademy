@@ -1,0 +1,125 @@
+{
+  "quizName": "superHeros",
+  "questions": [
+    {
+      "id": 1,
+      "difficultyLevel": 1,
+      "text": "Quelle est la principale faiblesse de Superman ?",
+      "options": [
+        { "text": "La magie", "correct": false },
+        { "text": "La Kryptonite", "correct": true },
+        { "text": "Le feu", "correct": false }
+      ]
+    },
+    {
+      "id": 2,
+      "difficultyLevel": 1,
+      "text": "Quelle super-héroïne de la Justice League peut voler et est très forte ?",
+      "options": [
+        { "text": "Black Canary", "correct": false },
+        { "text": "Wonder Woman", "correct": true },
+        { "text": "Batgirl", "correct": false }
+      ]
+    },
+    {
+      "id": 3,
+      "difficultyLevel": 1,
+      "text": "Quel est le pouvoir principal de Flash ?",
+      "options": [
+        { "text": "Super-force", "correct": false },
+        { "text": "Super-vitesse", "correct": true },
+        { "text": "Vol", "correct": false }
+      ]
+    },
+    {
+      "id": 4,
+      "difficultyLevel": 1,
+      "text": "Quelle est la capacité de Hulk quand il est en colère ?",
+      "options": [
+        { "text": "Devenir invisible", "correct": false },
+        { "text": "Sa force augmente", "correct": true },
+        { "text": "Changer de forme", "correct": false }
+      ]
+    },
+    {
+      "id": 5,
+      "difficultyLevel": 1,
+      "text": "Quel Avenger est un génie utilisant une armure motorisée ?",
+      "options": [
+        { "text": "Captain America", "correct": false },
+        { "text": "Iron Man", "correct": true },
+        { "text": "Thor", "correct": false }
+      ]
+    },
+    {
+      "id": 6,
+      "difficultyLevel": 1,
+      "text": "Quel est le pouvoir de Thor, le dieu du tonnerre ?",
+      "options": [
+        { "text": "Contrôler le vent", "correct": false },
+        { "text": "Contrôler la foudre", "correct": true },
+        { "text": "Maîtriser le feu", "correct": false }
+      ]
+    },
+    {
+      "id": 7,
+      "difficultyLevel": 2,
+      "text": "Qui est l'ennemi juré de Batman, connu pour sa folie ?",
+      "options": [
+        { "text": "Lex Luthor", "correct": false },
+        { "text": "Le Joker", "correct": true },
+        { "text": "Deathstroke", "correct": false }
+      ]
+    },
+    {
+      "id": 8,
+      "difficultyLevel": 2,
+      "text": "Quel vilain des Avengers peut manipuler la réalité et les esprits ?",
+      "options": [
+        { "text": "Red Skull", "correct": false },
+        { "text": "Loki", "correct": true },
+        { "text": "Ultron", "correct": false }
+      ]
+    },
+    {
+      "id": 9,
+      "difficultyLevel": 2,
+      "text": "Comment Spider-Man s'accroche-t-il aux murs ?",
+      "options": [
+        { "text": "Il utilise des ventouses", "correct": false },
+        { "text": "Il a des pouvoirs d'araignée", "correct": true },
+        { "text": "Il a des bottes spéciales", "correct": false }
+      ]
+    },
+    {
+      "id": 10,
+      "difficultyLevel": 2,
+      "text": "Quel est le rôle principal d'Aquaman dans la Justice League ?",
+      "options": [
+        { "text": "Il contrôle le feu", "correct": false },
+        { "text": "Il commande la vie marine", "correct": true },
+        { "text": "Il a une super ouïe", "correct": false }
+      ]
+    },
+    {
+      "id": 11,
+      "difficultyLevel": 3,
+      "text": "Quel vilain de l'univers DC est un savant fou expert en robotique ?",
+      "options": [
+        { "text": "Brainiac", "correct": true },
+        { "text": "Darkseid", "correct": false },
+        { "text": "Bane", "correct": false }
+      ]
+    },
+    {
+      "id": 12,
+      "difficultyLevel": 3,
+      "text": "Quelle est la capacité la plus dangereuse de Thanos ?",
+      "options": [
+        { "text": "Il est invulnérable", "correct": false },
+        { "text": "Le Gant de l'Infini", "correct": true },
+        { "text": "Il voyage dans le temps", "correct": false }
+      ]
+    }
+  ]
+}
