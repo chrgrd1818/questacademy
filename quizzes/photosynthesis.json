@@ -1,54 +1,35 @@
 {
-  "metadata": {
-    "uniqueID": "photosynthesis",
-    "title": "La Photosynthèse",
-    "description": "Un quiz pour tester vos connaissances sur le processus de la photosynthèse.",
-    "author": "QuizMaster",
-    "dateCreated": "2025-06-19"
-  },
-  "quizzes": [
+  "quizName": "photosynthesis",
+  "questions": [
     {
+      "id": 1,
       "difficultyLevel": 1,
-      "questions": [
-        {
-          "id": 1,
-          "text": "Quel gaz les plantes libèrent-elles pendant la photosynthèse ?",
-          "options": [
-            { "text": "Gaz carbonique", "correct": false },
-            { "text": "Oxygène", "correct": true },
-            { "text": "Azote", "correct": false }
-          ]
-        }
+      "text": "Quel gaz les plantes libèrent-elles pendant la photosynthèse ?",
+      "options": [
+        { "text": "Gaz carbonique", "correct": false },
+        { "text": "Oxygène",         "correct": true  },
+        { "text": "Azote",           "correct": false }
       ]
     },
     {
+      "id": 2,
       "difficultyLevel": 2,
-      "questions": [
-        {
-          "id": 2,
-          "text": "Qui a découvert que les plantes \"restaurent\" l'air ?",
-          "options": [
-            { "text": "Jan Ingenhousz", "correct": false },
-            { "text": "Melvin Calvin", "correct": false },
-            { "text": "Joseph Priestley", "correct": true }
-          ]
-        }
+      "text": "Qui a découvert que les plantes \"restaurent\" l'air ?",
+      "options": [
+        { "text": "Jan Ingenhousz",    "correct": false },
+        { "text": "Melvin Calvin",     "correct": false },
+        { "text": "Joseph Priestley",  "correct": true  }
       ]
     },
     {
+      "id": 3,
       "difficultyLevel": 3,
-      "questions": [
-        {
-          "id": 3,
-          "text": "Quelle est la fonction de la chlorophylle ?",
-          "options": [
-            { "text": "Capturer l'énergie lumineuse", "correct": true },
-            { "text": "Produire de l'eau", "correct": false },
-            { "text": "Fixer le dioxyde", "correct": false }
-          ]
-        }
+      "text": "Quelle est la fonction de la chlorophylle ?",
+      "options": [
+        { "text": "Capturer l'énergie lumineuse", "correct": true  },
+        { "text": "Produire de l'eau",            "correct": false },
+        { "text": "Fixer le dioxyde",            "correct": false }
       ]
     }
   ]
 }
-
