@@ -1,0 +1,155 @@
+{
+  "quizName": "expressions",
+  "questions": [
+    {
+      "id": 1,
+      "difficultyLevel": 1,
+      "text": "Il est très silencieux et ne dit rien : il est muet comme...",
+      "options": [
+        { "text": "une tombe", "correct": false },
+        { "text": "un poisson rouge", "correct": false },
+        { "text": "une carpe", "correct": true }
+      ]
+    },
+    {
+      "id": 2,
+      "difficultyLevel": 1,
+      "text": "Il a beaucoup de force physique : il est fort comme...",
+      "options": [
+        { "text": "un lion", "correct": true },
+        { "text": "un ours", "correct": false },
+        { "text": "un bœuf", "correct": false }
+      ]
+    },
+    {
+      "id": 3,
+      "difficultyLevel": 1,
+      "text": "Elle est très joyeuse : elle a la...",
+      "options": [
+        { "text": "la pêche", "correct": false },
+        { "text": "la banane", "correct": true },
+        { "text": "le sourire", "correct": false }
+      ]
+    },
+    {
+      "id": 4,
+      "difficultyLevel": 1,
+      "text": "Il est très petit : il est haut comme...",
+      "options": [
+        { "text": "trois pommes", "correct": true },
+        { "text": "un nain", "correct": false },
+        { "text": "une fourmi", "correct": false }
+      ]
+    },
+    {
+      "id": 5,
+      "difficultyLevel": 1,
+      "text": "Il pleut très fort dehors : il pleut des...",
+      "options": [
+        { "text": "seaux", "correct": false },
+        { "text": "cordes", "correct": true },
+        { "text": "torrents", "correct": false }
+      ]
+    },
+    {
+      "id": 6,
+      "difficultyLevel": 1,
+      "text": "Elle rougit de honte : elle est rouge comme...",
+      "options": [
+        { "text": "une fraise", "correct": false },
+        { "text": "une cerise", "correct": false },
+        { "text": "une tomate", "correct": true }
+      ]
+    },
+    {
+      "id": 7,
+      "difficultyLevel": 1,
+      "text": "Il dit des choses inventées : il raconte des...",
+      "options": [
+        { "text": "blagues", "correct": false },
+        { "text": "histoires", "correct": false },
+        { "text": "salades", "correct": true }
+      ]
+    },
+    {
+      "id": 8,
+      "difficultyLevel": 2,
+      "text": "Elle est triste et pleure beaucoup : elle pleure comme...",
+      "options": [
+        { "text": "un bébé", "correct": false },
+        { "text": "une madeleine", "correct": true },
+        { "text": "un enfant", "correct": false }
+      ]
+    },
+    {
+      "id": 9,
+      "difficultyLevel": 2,
+      "text": "Il dit n'importe quoi : il a une araignée au...",
+      "options": [
+        { "text": "mur", "correct": false },
+        { "text": "plafond", "correct": true },
+        { "text": "grenier", "correct": false }
+      ]
+    },
+    {
+      "id": 10,
+      "difficultyLevel": 2,
+      "text": "Il change souvent d'avis : il tourne comme...",
+      "options": [
+        { "text": "une toupie", "correct": false },
+        { "text": "une girouette", "correct": false },
+        { "text": "le vent", "correct": true }
+      ]
+    },
+    {
+      "id": 11,
+      "difficultyLevel": 2,
+      "text": "Il empire une situation : il jette de l'huile sur...",
+      "options": [
+        { "text": "les flammes", "correct": false },
+        { "text": "le feu", "correct": true },
+        { "text": "la braise", "correct": false }
+      ]
+    },
+    {
+      "id": 12,
+      "difficultyLevel": 3,
+      "text": "Il ne sait pas la réponse : il donne sa langue au...",
+      "options": [
+        { "text": "chien", "correct": false },
+        { "text": "chat", "correct": true },
+        { "text": "souriceau", "correct": false }
+      ]
+    },
+    {
+      "id": 13,
+      "difficultyLevel": 3,
+      "text": "Il est paresseux : il a un poil dans la...",
+      "options": [
+        { "text": "poche", "correct": false },
+        { "text": "main", "correct": true },
+        { "text": "jambe", "correct": false }
+      ]
+    },
+    {
+      "id": 14,
+      "difficultyLevel": 3,
+      "text": "Il provoque une dispute : il met le feu aux...",
+      "options": [
+        { "text": "mèches", "correct": false },
+        { "text": "poudres", "correct": true },
+        { "text": "allumettes", "correct": false }
+      ]
+    },
+    {
+      "id": 15,
+      "difficultyLevel": 3,
+      "text": "Elle rit de façon forcée : elle rit...",
+      "options": [
+        { "text": "faussement", "correct": false },
+        { "text": "jaune", "correct": true },
+        { "text": "bizarrement", "correct": false }
+      ]
+    }
+  ]
+}
