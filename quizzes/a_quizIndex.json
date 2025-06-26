@@ -1,10 +1,10 @@
 [
-{"quizId" : "asterix", "quizTitle" : "Asterix", "quizDesc" : "" },
-{"quizId" : "expressions", "quizTitle" : "Expressions", "quizDesc" : "" },
-{"quizId" : "animalsRecords", "quizTitle" : "Animals Records", "quizDesc" : ""},
-{"quizId" : "mediterraneanAntic", "quizTitle" : "Mediterranean Antic", "quizDesc" : "" },
-{"quizId" : "middleAge", "quizTitle" : "Middle Age", "quizDesc" : "" },
-{"quizId" : "photosynthesis", "quizTitle" : "Photo Synthesis", "quizDesc" : "" },
-{"quizId" : "superHeroes", "quizTitle" : "Super Heros", "quizDesc" : "" },
-{"quizId" : "worldCapitals", "quizTitle" : "World Capitals", "quizDesc" : "" }
+{"quizId" : "asterix", "quizTitle" : "Asterix & Obélix", "quizDesc" : "" },
+{"quizId" : "expressions", "quizTitle" : "Les Expressions", "quizDesc" : "" },
+{"quizId" : "animalsRecords", "quizTitle" : "Les Animaux Uniques", "quizDesc" : ""},
+{"quizId" : "mediterraneanAntic", "quizTitle" : "La Méditerrannée Antique", "quizDesc" : "" },
+{"quizId" : "middleAge", "quizTitle" : "le Moyen Age", "quizDesc" : "" },
+{"quizId" : "photosynthesis", "quizTitle" : "La PhotoSynthèse", "quizDesc" : "" },
+{"quizId" : "superHeroes", "quizTitle" : "Les Super Heros", "quizDesc" : "" },
+{"quizId" : "worldCapitals", "quizTitle" : "Les Capitalesdu du Monde", "quizDesc" : "" }
 ]
