@@ -1,0 +1,155 @@
+{
+  "quizName": "asterix",
+  "questions": [
+    {
+      "id": 1,
+      "difficultyLevel": 1,
+      "text": "Quel héros est petit et rusé ?",
+      "options": [
+        { "text": "Obélix", "correct": false },
+        { "text": "Astérix", "correct": true },
+        { "text": "Abraracourcix", "correct": false }
+      ]
+    },
+    {
+      "id": 2,
+      "difficultyLevel": 1,
+      "text": "Qui est le livreur de menhirs ?",
+      "options": [
+        { "text": "Astérix", "correct": false },
+        { "text": "Assurancetourix", "correct": false },
+        { "text": "Obélix", "correct": true }
+      ]
+    },
+    {
+      "id": 3,
+      "difficultyLevel": 1,
+      "text": "Quel est le nom du chien d'Obélix ?",
+      "options": [
+        { "text": "Idéfix", "correct": true },
+        { "text": "Milou", "correct": false },
+        { "text": "Titou", "correct": false }
+      ]
+    },
+    {
+      "id": 4,
+      "difficultyLevel": 1,
+      "text": "Qui fabrique la potion magique ?",
+      "options": [
+        { "text": "Astérix", "correct": false },
+        { "text": "Panoramix", "correct": true },
+        { "text": "Bonemine", "correct": false }
+      ]
+    },
+    {
+      "id": 5,
+      "difficultyLevel": 1,
+      "text": "Qui sont les ennemis des Gaulois ?",
+      "options": [
+        { "text": "Grecs", "correct": false },
+        { "text": "Romains", "correct": true },
+        { "text": "Vikings", "correct": false }
+      ]
+    },
+    {
+      "id": 6,
+      "difficultyLevel": 2,
+      "text": "Que boivent les Gaulois pour être forts ?",
+      "options": [
+        { "text": "Vin", "correct": false },
+        { "text": "Potion magique", "correct": true },
+        { "text": "Eau", "correct": false }
+      ]
+    },
+    {
+      "id": 7,
+      "difficultyLevel": 2,
+      "text": "Qui est le chef du village gaulois ?",
+      "options": [
+        { "text": "Panoramix", "correct": false },
+        { "text": "Abraracourcix", "correct": true },
+        { "text": "Ordralfabétix", "correct": false }
+      ]
+    },
+    {
+      "id": 8,
+      "difficultyLevel": 2,
+      "text": "Qui chante faux dans le village ?",
+      "options": [
+        { "text": "Cétautomatix", "correct": false },
+        { "text": "Ordralfabétix", "correct": false },
+        { "text": "Assurancetourix", "correct": true }
+      ]
+    },
+    {
+      "id": 9,
+      "difficultyLevel": 2,
+      "text": "Quel plat Obélix préfère-t-il ?",
+      "options": [
+        { "text": "Sangliers", "correct": true },
+        { "text": "Poulets", "correct": false },
+        { "text": "Poissons", "correct": false }
+      ]
+    },
+    {
+      "id": 10,
+      "difficultyLevel": 2,
+      "text": "Quel est le métier d'Assurancetourix ?",
+      "options": [
+        { "text": "Forgeron", "correct": false },
+        { "text": "Barde", "correct": true },
+        { "text": "Pêcheur", "correct": false }
+      ]
+    },
+    {
+      "id": 11,
+      "difficultyLevel": 2,
+      "text": "Où vivent Astérix et Obélix ?",
+      "options": [
+        { "text": "Camp", "correct": false },
+        { "text": "Village", "correct": true },
+        { "text": "Ville", "correct": false }
+      ]
+    },
+    {
+      "id": 12,
+      "difficultyLevel": 2,
+      "text": "Contre qui Astérix et Obélix se battent-ils souvent ?",
+      "options": [
+        { "text": "Pirates", "correct": true },
+        { "text": "Gaulois", "correct": false },
+        { "text": "Égyptiens", "correct": false }
+      ]
+    },
+    {
+      "id": 13,
+      "difficultyLevel": 3,
+      "text": "Quel animal Idéfix n'aime-t-il pas voir couper ?",
+      "options": [
+        { "text": "Arbres", "correct": true },
+        { "text": "Fleurs", "correct": false },
+        { "text": "Herbe", "correct": false }
+      ]
+    },
+    {
+      "id": 14,
+      "difficultyLevel": 3,
+      "text": "Quelle est la seule peur d'Abraracourcix ?",
+      "options": [
+        { "text": "Ciel", "correct": true },
+        { "text": "Romains", "correct": false },
+        { "text": "Sangliers", "correct": false }
+      ]
+    },
+    {
+      "id": 15,
+      "difficultyLevel": 3,
+      "text": "Qui est l'épouse du chef ?",
+      "options": [
+        { "text": "Falbala", "correct": false },
+        { "text": "Bonemine", "correct": true },
+        { "text": "Iélosubmarine", "correct": false }
+      ]
+    }
+  ]
+}
