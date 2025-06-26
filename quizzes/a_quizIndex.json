@@ -1,4 +1,6 @@
 [
+{"quizId" : "asterix", "quizTitle" : "Asterix", "quizDesc" : "" },
+{"quizId" : "expressions", "quizTitle" : "Expressions", "quizDesc" : "" },
 {"quizId" : "animalsRecords", "quizTitle" : "Animals Records", "quizDesc" : ""},
 {"quizId" : "mediterraneanAntic", "quizTitle" : "Mediterranean Antic", "quizDesc" : "" },
 {"quizId" : "middleAge", "quizTitle" : "Middle Age", "quizDesc" : "" },
