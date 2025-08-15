@@ -87,7 +87,7 @@
       "text": "À quelle hauteur culmine la Dune du Pilat ?",
       "options": [
         { "text": "1 mètre",    "correct": false },
-        { "text": "110 mètres", "correct": true },
+        { "text": "100 mètres", "correct": true },
         { "text": "1000 mètres","correct": false }
       ]
     },
