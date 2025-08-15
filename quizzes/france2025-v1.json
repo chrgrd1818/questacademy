@@ -1,1 +1,225 @@
-
+{
+  "quizName": "france2025-v1",
+  "questions": [
+    {
+      "id": 1,
+      "difficultyLevel": 1,
+      "text": "Quel avion pour aller en France ?",
+      "options": [
+        { "text": "Royal Air France", "correct": false },
+        { "text": "Vietnam Airlines",   "correct": true  },
+        { "text": "Bhutan Airlines",    "correct": false }
+      ]
+    },
+    {
+      "id": 2,
+      "difficultyLevel": 1,
+      "text": "Qu’y a-t-il sous l’Arc de Triomphe à Paris ?",
+      "options": [
+        { "text": "Une petite Tour Eiffel",            "correct": false },
+        { "text": "La flamme du Soldat inconnu",       "correct": true },
+        { "text": "Le tombeau de Louis XIV",           "correct": false }
+      ]
+    },
+    {
+      "id": 3,
+      "difficultyLevel": 1,
+      "text": "Où la vasque olympique est-elle exposée ?",
+      "options": [
+        { "text": "Le Jardin des Tuileries", "correct": true },
+        { "text": "Le Jardin du Luxembourg", "correct": false },
+        { "text": "Le Jardin d’Eden",        "correct": false }
+      ]
+    },
+    {
+      "id": 4,
+      "difficultyLevel": 1,
+      "text": "Quel fleuve borde la Tour Eiffel ?",
+      "options": [
+        { "text": "Le Mékong",    "correct": false },
+        { "text": "La Seine",     "correct": true },
+        { "text": "La Dordogne",  "correct": false }
+      ]
+    },
+    {
+      "id": 5,
+      "difficultyLevel": 1,
+      "text": "Dans quelle gare NE s’arrête PAS le TGV ?",
+      "options": [
+        { "text": "La gare de Bordeaux-Saint-Jean",   "correct": false },
+        { "text": "La gare de Paris-Montparnasse",    "correct": false },
+        { "text": "La gare de Paris-Saint-Thomas",    "correct": true }
+      ]
+    },
+    {
+      "id": 6,
+      "difficultyLevel": 2,
+      "text": "Quelle boisson non gazeuse aux fruits peut-on boire à Pessac-Universités ?",
+      "options": [
+        { "text": "Du Coca-Cola Zero", "correct": false },
+        { "text": "De l’Oasis",        "correct": true },
+        { "text": "De l’eau de la Garonne", "correct": false }
+      ]
+    },
+    {
+      "id": 7,
+      "difficultyLevel": 1,
+      "text": "Quelle célèbre place bordelaise se situe en face du Miroir d’eau ?",
+      "options": [
+        { "text": "La place des Quinconces",    "correct": false },
+        { "text": "La place de la Concorde",    "correct": false },
+        { "text": "La place de la Bourse",      "correct": true }
+      ]
+    },
+    {
+      "id": 8,
+      "difficultyLevel": 2,
+      "text": "Quels aliments mange-t-on rarement à Andernos ?",
+      "options": [
+        { "text": "Des bonbons",               "correct": false },
+        { "text": "Des huîtres",               "correct": false },
+        { "text": "Des crêpes aux cèpes",       "correct": true }
+      ]
+    },
+    {
+      "id": 9,
+      "difficultyLevel": 2,
+      "text": "À quelle hauteur culmine la Dune du Pilat ?",
+      "options": [
+        { "text": "1 mètre",    "correct": false },
+        { "text": "110 mètres", "correct": true },
+        { "text": "1000 mètres","correct": false }
+      ]
+    },
+    {
+      "id": 10,
+      "difficultyLevel": 2,
+      "text": "Dans quel village peut-on visiter les vignes en petit train ?",
+      "options": [
+        { "text": "Paris",         "correct": false },
+        { "text": "Saint-Émilion", "correct": true },
+        { "text": "Munich",        "correct": false }
+      ]
+    },
+    {
+      "id": 11,
+      "difficultyLevel": 2,
+      "text": "Au bord de quelle rivière, traversant Montignac-Lascaux, peut-on pique-niquer ?",
+      "options": [
+        { "text": "La Vézère",          "correct": true },
+        { "text": "La Dordogne",        "correct": false },
+        { "text": "La rivière du Bassin d’Arcachon", "correct": false }
+      ]
+    },
+    {
+      "id": 12,
+      "difficultyLevel": 2,
+      "text": "De quand datent les peintures de la grotte de Lascaux ?",
+      "options": [
+        { "text": "Environ 20 000 ans", "correct": true },
+        { "text": "Environ 200 000 ans","correct": false },
+        { "text": "Environ 2 000 ans",  "correct": false }
+      ]
+    },
+    {
+      "id": 13,
+      "difficultyLevel": 2,
+      "text": "Comment appelle-t-on le bateau traditionnel à La Roque-Gageac ?",
+      "options": [
+        { "text": "Drakkar",        "correct": false },
+        { "text": "Bateau-mouche",  "correct": false },
+        { "text": "Gabarre",        "correct": true  }
+      ]
+    },
+    {
+      "id": 14,
+      "difficultyLevel": 2,
+      "text": "Quelle arme N’y a-t-il PAS au château fort de Castelnaud ?",
+      "options": [
+        { "text": "Un tank",      "correct": true  },
+        { "text": "Un trébuchet", "correct": false },
+        { "text": "Une bombarde", "correct": false }
+      ]
+    },
+    {
+      "id": 15,
+      "difficultyLevel": 3,
+      "text": "Quel style architectural caractérise la plupart des immeubles parisiens ?",
+      "options": [
+        { "text": "Haussmannien", "correct": true  },
+        { "text": "Baroque",      "correct": false },
+        { "text": "Préhistorique","correct": false }
+      ]
+    },
+    {
+      "id": 16,
+      "difficultyLevel": 3,
+      "text": "Quelle salle N’existe PAS au château de Versailles ?",
+      "options": [
+        { "text": "La Galerie des Glaces",   "correct": false },
+        { "text": "La Galerie des Batailles","correct": false },
+        { "text": "La Galerie des Armes",    "correct": true  }
+      ]
+    },
+    {
+      "id": 17,
+      "difficultyLevel": 3,
+      "text": "À la Cité des Sciences et de l’Industrie à Paris, où peut-on regarder le film “Noisettes” ?",
+      "options": [
+        { "text": "Dans le Planétarium",        "correct": false },
+        { "text": "Dans la Géode",               "correct": true  },
+        { "text": "Dans l’expo “Chiens & chats”","correct": false }
+      ]
+    },
+    {
+      "id": 18,
+      "difficultyLevel": 3,
+      "text": "Quel arrêt de métro NE dépose PAS au Forum des Halles ?",
+      "options": [
+        { "text": "Les Halles",    "correct": false },
+        { "text": "Châtelet",      "correct": false },
+        { "text": "Bir-Hakeim",    "correct": true  }
+      ]
+    },
+    {
+      "id": 19,
+      "difficultyLevel": 3,
+      "text": "En quelle année la Joconde, exposée au musée du Louvre, fut-elle achetée par François Ier à Léonard de Vinci ?",
+      "options": [
+        { "text": "1518",  "correct": true  },
+        { "text": "1815",  "correct": false },
+        { "text": "2025",  "correct": false }
+      ]
+    },
+    {
+      "id": 20,
+      "difficultyLevel": 3,
+      "text": "En France, qui vote des lois au Palais du Luxembourg ?",
+      "options": [
+        { "text": "Celui qui monte sur la butte de cailloux", "correct": false },
+        { "text": "Le Sénat",                                "correct": true  },
+        { "text": "L’Assemblée nationale",                   "correct": false }
+      ]
+    },
+    {
+      "id": 21,
+      "difficultyLevel": 3,
+      "text": "Quel aéroport NE dessert PAS Paris ?",
+      "options": [
+        { "text": "Aéroport Charles de Gaulle (CDG)",     "correct": false },
+        { "text": "Aéroport d’Orly (ORY)",                "correct": false },
+        { "text": "Aéroport Super Mario Odyssey",        "correct": true  }
+      ]
+    },
+    {
+      "id": 22,
+      "difficultyLevel": 3,
+      "text": "Au bord de quel plan d’eau la famille est-elle réunie sur la photo ?",
+      "options": [
+        { "text": "Le bassin d’Andernos",             "correct": false },
+        { "text": "L’étang de la Jemaye",             "correct": true  },
+        { "text": "Le lac de Bordeaux",               "correct": false }
+      ]
+    }
+  ]
+}
