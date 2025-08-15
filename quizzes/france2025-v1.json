@@ -166,8 +166,8 @@
       "difficultyLevel": 3,
       "text": "À la Cité des Sciences et de l’Industrie à Paris, où peut-on regarder le film “Noisettes” ?",
       "options": [
-        { "text": "Dans le Planétarium",        "correct": false },
-        { "text": "Dans la Géode",               "correct": true  },
+        { "text": "Dans le Planétarium",        "correct": true },
+        { "text": "Dans la Géode",               "correct": false },
         { "text": "Dans l’expo “Chiens & chats”","correct": false }
       ]
     },
