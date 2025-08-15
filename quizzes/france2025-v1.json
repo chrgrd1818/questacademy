@@ -53,7 +53,7 @@
     },
     {
       "id": 6,
-      "difficultyLevel": 2,
+      "difficultyLevel": 1,
       "text": "Quelle boisson non gazeuse aux fruits peut-on boire à Pessac-Universités ?",
       "options": [
         { "text": "Du Coca-Cola Zero", "correct": false },
@@ -108,7 +108,7 @@
       "options": [
         { "text": "La Vézère",          "correct": true },
         { "text": "La Dordogne",        "correct": false },
-        { "text": "La rivière du Bassin d’Arcachon", "correct": false }
+        { "text": "La Seine", "correct": false }
       ]
     },
     {
@@ -206,8 +206,8 @@
       "difficultyLevel": 3,
       "text": "Quel aéroport NE dessert PAS Paris ?",
       "options": [
-        { "text": "Aéroport Charles de Gaulle (CDG)",     "correct": false },
-        { "text": "Aéroport d’Orly (ORY)",                "correct": false },
+        { "text": "Aéroport Charles de Gaulle",     "correct": false },
+        { "text": "Aéroport d’Orly",                "correct": false },
         { "text": "Aéroport Super Mario Odyssey",        "correct": true  }
       ]
     },
