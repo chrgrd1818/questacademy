@@ -4,7 +4,7 @@
     {
       "id": 1,
       "difficultyLevel": 1,
-      "text": "Quel avion pour aller en France ?",
+      "text": "Quel avion vole vers la France ?",
       "options": [
         { "text": "Royal Air France", "correct": false },
         { "text": "Vietnam Airlines",   "correct": true  },
@@ -44,7 +44,7 @@
     {
       "id": 5,
       "difficultyLevel": 1,
-      "text": "Dans quelle gare NE s’arrête PAS le TGV ?",
+      "text": "À quelle gare NE s’arrête PAS le TGV ?",
       "options": [
         { "text": "La gare de Bordeaux-Saint-Jean",   "correct": false },
         { "text": "La gare de Paris-Montparnasse",    "correct": false },
@@ -64,7 +64,7 @@
     {
       "id": 7,
       "difficultyLevel": 1,
-      "text": "Quelle célèbre place bordelaise se situe en face du Miroir d’eau ?",
+      "text": "Quelle place bordelaise se situe en face du Miroir d’eau ?",
       "options": [
         { "text": "La place des Quinconces",    "correct": false },
         { "text": "La place de la Concorde",    "correct": false },
@@ -104,7 +104,7 @@
     {
       "id": 11,
       "difficultyLevel": 2,
-      "text": "Au bord de quelle rivière, traversant Montignac-Lascaux, peut-on pique-niquer ?",
+      "text": "Au bord de quelle rivière, qui traverse Montignac-Lascaux, peut-on pique-niquer ?",
       "options": [
         { "text": "La Vézère",          "correct": true },
         { "text": "La Dordogne",        "correct": false },
@@ -134,7 +134,7 @@
     {
       "id": 14,
       "difficultyLevel": 2,
-      "text": "Quelle arme N’y a-t-il PAS au château fort de Castelnaud ?",
+      "text": "Quelle arme N’existe PAS au château fort de Castelnaud ?",
       "options": [
         { "text": "Un tank",      "correct": true  },
         { "text": "Un trébuchet", "correct": false },
@@ -164,7 +164,7 @@
     {
       "id": 17,
       "difficultyLevel": 3,
-      "text": "À la Cité des Sciences et de l’Industrie à Paris, où peut-on regarder le film “Noisettes” ?",
+      "text": "À la Cité des Sciences de Paris, où peut-on regarder le film “Noisettes” ?",
       "options": [
         { "text": "Dans le Planétarium",        "correct": true },
         { "text": "Dans la Géode",               "correct": false },
@@ -184,7 +184,7 @@
     {
       "id": 19,
       "difficultyLevel": 3,
-      "text": "En quelle année la Joconde, exposée au musée du Louvre, fut-elle achetée par François Ier à Léonard de Vinci ?",
+      "text": "En quelle année, la Joconde, exposée au Musée du Louvre, fut-elle achetée à Léonard de Vinci par François 1er ?",
       "options": [
         { "text": "1518",  "correct": true  },
         { "text": "1815",  "correct": false },
@@ -204,7 +204,7 @@
     {
       "id": 21,
       "difficultyLevel": 3,
-      "text": "Quel aéroport NE dessert PAS Paris ?",
+      "text": "Quel aéroport N'existe PAS ?",
       "options": [
         { "text": "Aéroport Charles de Gaulle",     "correct": false },
         { "text": "Aéroport d’Orly",                "correct": false },
