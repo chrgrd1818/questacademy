@@ -114,7 +114,7 @@
     {
       "id": 12,
       "difficultyLevel": 2,
-      "text": "Qui Astérix et Obélix rencontrent-ils souvent sur la mer ?",
+      "text": "Qui Astérix et Obélix rencontrent-ils souvent en mer ?",
       "options": [
         { "text": "Des pirates", "correct": true },
         { "text": "Des requins", "correct": false },
@@ -124,7 +124,7 @@
     {
       "id": 13,
       "difficultyLevel": 3,
-      "text": "Qu'est-ce qu'Idéfix n'aime pas que l'on coup ?",
+      "text": "Qu'est-ce qu'Idéfix n'aime pas que l'on coupe ?",
       "options": [
         { "text": "Des arbres", "correct": true },
         { "text": "Des fleurs", "correct": false },
