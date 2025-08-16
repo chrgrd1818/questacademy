@@ -43,7 +43,7 @@
     },
     {
       "id": 5,
-      "difficultyLevel": 1,
+      "difficultyLevel": 2,
       "text": "Qui sont les ennemis des Gaulois ?",
       "options": [
         { "text": "Grecs", "correct": false },
@@ -93,7 +93,7 @@
     },
     {
       "id": 10,
-      "difficultyLevel": 2,
+      "difficultyLevel": 3,
       "text": "Quel est le métier d'Assurancetourix ?",
       "options": [
         { "text": "Forgeron", "correct": false },
@@ -103,7 +103,7 @@
     },
     {
       "id": 11,
-      "difficultyLevel": 2,
+      "difficultyLevel": 3,
       "text": "Où vivent Astérix et Obélix ?",
       "options": [
         { "text": "En Aquitaine", "correct": false },
@@ -113,7 +113,7 @@
     },
     {
       "id": 12,
-      "difficultyLevel": 2,
+      "difficultyLevel": 3,
       "text": "Qui Astérix et Obélix rencontrent-ils souvent en mer ?",
       "options": [
         { "text": "Des pirates", "correct": true },
