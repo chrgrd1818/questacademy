@@ -106,29 +106,29 @@
       "difficultyLevel": 2,
       "text": "Où vivent Astérix et Obélix ?",
       "options": [
-        { "text": "Camp", "correct": false },
-        { "text": "Village", "correct": true },
-        { "text": "Ville", "correct": false }
+        { "text": "En Aquitaine", "correct": false },
+        { "text": "En Armorique", "correct": true },
+        { "text": "A Rome", "correct": false }
       ]
     },
     {
       "id": 12,
       "difficultyLevel": 2,
-      "text": "Contre qui Astérix et Obélix se battent-ils souvent ?",
+      "text": "Qui Astérix et Obélix rencontrent-ils souvent sur la mer ?",
       "options": [
-        { "text": "Pirates", "correct": true },
-        { "text": "Gaulois", "correct": false },
-        { "text": "Égyptiens", "correct": false }
+        { "text": "Des pirates", "correct": true },
+        { "text": "Des requins", "correct": false },
+        { "text": "Des Égyptiens", "correct": false }
       ]
     },
     {
       "id": 13,
       "difficultyLevel": 3,
-      "text": "Quel animal Idéfix n'aime-t-il pas voir couper ?",
+      "text": "Qu'est-ce qu'Idéfix n'aime pas que l'on coup ?",
       "options": [
-        { "text": "Arbres", "correct": true },
-        { "text": "Fleurs", "correct": false },
-        { "text": "Herbe", "correct": false }
+        { "text": "Des arbres", "correct": true },
+        { "text": "Des fleurs", "correct": false },
+        { "text": "Des menhirs", "correct": false }
       ]
     },
     {
@@ -136,15 +136,15 @@
       "difficultyLevel": 3,
       "text": "Quelle est la seule peur d'Abraracourcix ?",
       "options": [
-        { "text": "Ciel", "correct": true },
-        { "text": "Romains", "correct": false },
-        { "text": "Sangliers", "correct": false }
+        { "text": "Le Ciel", "correct": true },
+        { "text": "Les Romains", "correct": false },
+        { "text": "Les Sangliers", "correct": false }
       ]
     },
     {
       "id": 15,
       "difficultyLevel": 3,
-      "text": "Qui est l'épouse du chef ?",
+      "text": "Comment s'appelle la femme du chef du village ?",
       "options": [
         { "text": "Falbala", "correct": false },
         { "text": "Bonemine", "correct": true },
