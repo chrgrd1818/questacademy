@@ -1,1 +1,125 @@
-
+{
+  "quizName": "france2025_suivi-v1",
+  "questions": [
+    {
+      "id": 1,
+      "difficultyLevel": 1,
+      "text": "Quel mode de transport ne permet pas d’aller à Bordeaux depuis Paris ?",
+      "options": [
+        { "text": "TGV", "correct": false },
+        { "text": "Avion", "correct": false },
+        { "text": "Gabarre", "correct": true }
+      ]
+    },
+    {
+      "id": 2,
+      "difficultyLevel": 1,
+      "text": "Lequel de ces fleuves est le plus long ?",
+      "options": [
+        { "text": "Seine", "correct": true },
+        { "text": "Dordogne", "correct": false },
+        { "text": "Garonne", "correct": false }
+      ]
+    },
+    {
+      "id": 3,
+      "difficultyLevel": 1,
+      "text": "Quel jardin n’existe pas à Paris ?",
+      "options": [
+        { "text": "Jardin des Tuileries", "correct": false },
+        { "text": "Jardin du Luxembourg", "correct": false },
+        { "text": "Jardin de Mamie", "correct": true }
+      ]
+    },
+    {
+      "id": 4,
+      "difficultyLevel": 1,
+      "text": "Laquelle de ces villes ne se situe pas dans le Sud-Ouest de la France ?",
+      "options": [
+        { "text": "Bordeaux", "correct": false },
+        { "text": "Paris", "correct": true },
+        { "text": "Andernos-les-Bains", "correct": false }
+      ]
+    },
+    {
+      "id": 5,
+      "difficultyLevel": 2,
+      "text": "Quel site offre la plus haute vue ?",
+      "options": [
+        { "text": "Tour Eiffel", "correct": true },
+        { "text": "Tour Montparnasse", "correct": false },
+        { "text": "Dune du Pilat", "correct": false }
+      ]
+    },
+    {
+      "id": 6,
+      "difficultyLevel": 2,
+      "text": "Laquelle de ces villes est dans le département de la Gironde ?",
+      "options": [
+        { "text": "Saint-Émilion", "correct": true },
+        { "text": "La Roque-Gageac", "correct": false },
+        { "text": "Échourgnac", "correct": false }
+      ]
+    },
+    {
+      "id": 7,
+      "difficultyLevel": 2,
+      "text": "Lequel de ces plats n’est pas une spécialité française ?",
+      "options": [
+        { "text": "Salade landaise", "correct": false },
+        { "text": "Big Mac", "correct": true },
+        { "text": "Confit de canard", "correct": false }
+      ]
+    },
+    {
+      "id": 8,
+      "difficultyLevel": 2,
+      "text": "Quel site ne date pas de l’époque médiévale ?",
+      "options": [
+        { "text": "Saint-Émilion", "correct": false },
+        { "text": "Château de Castenaud", "correct": false },
+        { "text": "Château de Versailles", "correct": true }
+      ]
+    },
+    {
+      "id": 9,
+      "difficultyLevel": 3,
+      "text": "Lequel de ces sites culturels est le plus récent ?",
+      "options": [
+        { "text": "Cité des sciences et de l’industrie", "correct": true },
+        { "text": "Arc de Triomphe", "correct": false },
+        { "text": "Palais du Luxembourg", "correct": false }
+      ]
+    },
+    {
+      "id": 10,
+      "difficultyLevel": 3,
+      "text": "Laquelle de ces œuvres d’art est la plus ancienne ?",
+      "options": [
+        { "text": "Cheval noir et rouge", "correct": true },
+        { "text": "La Joconde", "correct": false },
+        { "text": "Vasque olympique", "correct": false }
+      ]
+    },
+    {
+      "id": 11,
+      "difficultyLevel": 3,
+      "text": "Lequel de ces personnages n’était pas un roi de France ?",
+      "options": [
+        { "text": "Louis XIV", "correct": false },
+        { "text": "François Ier", "correct": false },
+        { "text": "Léonard de Vinci", "correct": true }
+      ]
+    },
+    {
+      "id": 12,
+      "difficultyLevel": 3,
+      "text": "Lequel de ces édifices religieux n’existe pas ?",
+      "options": [
+        { "text": "Cathédrale Notre-Dame", "correct": false },
+        { "text": "Église Saint-Éloi", "correct": false },
+        { "text": "Basilique du Grand-Cœur", "correct": true }
+      ]
+    }
+  ]
+}
